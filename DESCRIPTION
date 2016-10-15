@@ -1,0 +1,12 @@
+Package: IslandPlotMval1.1
+Type: Package
+Title: Create Plots of Mvalue CpG data
+Version: 0.1.0
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: GNU General Public License
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
