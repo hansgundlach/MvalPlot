@@ -9,6 +9,11 @@ Install using RStudio
 
 `install_github("hansgundlach/MvalPlot")`
 
+Exmaple Iamge
+![Alt text](R/Rplot.jpg?raw=true "Title")
+
+
+
 ##Credits
 Created by Georg Luebeck 
 
