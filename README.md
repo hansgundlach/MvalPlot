@@ -9,7 +9,8 @@ Install using RStudio
 
 `install_github("hansgundlach/MvalPlot")`
 
-Exmaple image genrated by avgIslPlot_Mval
+##Exmaple image 
+genrated using avgIslPlot_Mval in MvalPlot
 
 Each point is the average of several mathylation value for a particular group at a particular cpg.
 
