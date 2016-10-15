@@ -9,8 +9,8 @@ Install using RStudio
 
 `install_github("hansgundlach/MvalPlot")`
 
-Exmaple Iamge
-![Alt text](R/Rplot.jpg?raw=true "Title")
+Exmaple Image
+![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 
