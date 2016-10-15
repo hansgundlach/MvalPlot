@@ -10,7 +10,7 @@ Install using RStudio
 `install_github("hansgundlach/MvalPlot")`
 
 Exmaple Image
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/hansgundlach/MvalPlot/blob/master/R/Rplot.png)
 
 
 
