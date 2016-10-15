@@ -7,7 +7,7 @@ Install using RStudio
 
 `library(devtools)`
 
-`install_github("hansgundlach/IslandPlotMval")`
+`install_github("hansgundlach/MvalPlot")`
 
 ##Credits
 Created by Georg Luebeck 
