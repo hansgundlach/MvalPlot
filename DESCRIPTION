@@ -1,4 +1,4 @@
-Package: IslandPlotMval1.1
+Package: MvalPlot
 Type: Package
 Title: Create Plots of Mvalue CpG data
 Version: 0.1.0
